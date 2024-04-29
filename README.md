@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Mariely
 
 ## About Me
-I am a passionate computer engineering student, always eager to learn more about programming and technology. During my time in university, I have worked on various projects, including academic assignments and challenges.
+I'm a computer engineering student, always eager to learn more about programming and technology. During my time in university, I have worked on various projects, including academic assignments and challenges.
 
 <!--
 **ely2547/ely2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
